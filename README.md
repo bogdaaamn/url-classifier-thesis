@@ -1,4 +1,4 @@
-# url-classifier-thesis
+# URL Product Web Page Classifier Thesis
 The data, models, methods and finding of Bogdan Covrig's thesis titled _"URL Product Web Page Classifier"_.
 
 ## Data
